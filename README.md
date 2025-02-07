@@ -1,7 +1,7 @@
 Blogging Platform using:
-
-React in the frontend.
-Cloudfare workers in the backend.
-Prisma ORM with connection pooling.
-Postgress as database.
-JWT for auth(can be extended for cookies).
+<br/>
+React in the frontend.<br/>
+Cloudfare workers in the backend. <br/>
+Prisma ORM with connection pooling. <br/>
+Postgress as database.  <br/>
+JWT for auth(can be extended for cookies). <br/>
